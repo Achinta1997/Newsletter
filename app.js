@@ -59,8 +59,6 @@ app.listen(process.env.PORT || 3000, function(req,res){
 })
 
 
-// api key
-// de71f2b43b8073a01bd4ee21a71b9c8e-us18
 
 // 00bbe8aaa1
 
